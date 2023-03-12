@@ -1,4 +1,4 @@
-# Tribute-Page-Dr.S.Ramanujan
+# Tribute-Page
 
 This is a Tribute Page for great mathematician Dr.S.Ramanujan.
 
