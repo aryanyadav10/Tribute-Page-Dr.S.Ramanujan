@@ -14,23 +14,38 @@ header p{
     margin: 0  auto;
     padding: 1rem;
     padding-top: 0.5rem;
-    padding-bottom: 0;
+    padding-bottom: 2rem;
     width: 300px;
 }
 .change{
     font-size: 20px;
     font-style: italic;
+    margin-bottom: 5px;
+    display: block;
+    width: 100%;
+    height: auto;
 }
 article#c1{
     margin: auto;
-    padding-left: 10em;
-    padding-right: 8rem;
     align-items: center;
+    width:100%;
+    height: auto;
+    min-width: 200px;
+    max-width: 500px;
+    border: solid 5px black;
 }
-.fig{
-    width:auto;
-    margin: auto;
-    padding-top: 1rem;
+article#c1 img{
+    width: 100%;
+    height: auto;
+    min-width: 100px;
+    max-width: 500px;
+}
+.bor p{
+    width:100%;
+    height: auto;
+    min-width: 20px;
+    max-width: 200px;
+    padding-bottom: 1rem;
 }
 /*Main Body*/
 section#c2{
